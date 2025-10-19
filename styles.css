@@ -135,6 +135,10 @@ hr {
   outline: none;
 }
 
+.center-text {
+  text-align: center;
+}
+
 .chapter-nav .index-link {
   font-weight: 600;
 }
